@@ -1,251 +1,126 @@
-# 🚀 Nandeesh Kantli - Interactive Portfolio
+# 🚀 Nandeesh Kantli - Portfolio
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cloud+Architect;Innovation+Creator" alt="Typing SVG" />
-</div>
+> **Full Stack Developer & AI/ML Enthusiast** | Studying at IIT Madras & RVU
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-orange?style=for-the-badge)](https://nandeesh-kantli.vercel.app)
+[![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-0.158.0-green?style=for-the-badge&logo=three.js)](https://threejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.6-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
----
+## 👨‍💻 About Me
 
-## 🌟 About Me
+I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** currently studying at **IIT Madras** and **RVU**. I specialize in creating innovative solutions that bridge the gap between technology and human needs.
 
-> *"Grab a cup of coffee ☕ and build something that matters."*
-
-I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** currently studying at **IIT-M & RVU**. I specialize in creating innovative solutions that bridge the gap between technology and human needs, focusing on full-stack development, machine learning, and scalable cloud architectures that drive real-world impact.
-
-### 🎯 What I Do
-- **Full Stack Development** with MERN Stack & Django
-- **AI/ML Solutions** using TensorFlow, PyTorch, and TinyML
-- **Cloud Architecture** on AWS, GCP, and Azure
-- **IoT Development** with ESP32, Arduino, and Raspberry Pi
-- **Cybersecurity** with DDoS protection and intelligent rate limiting
-
----
+### 🏆 Key Achievements
+- **🏆 Winner** - Pitch-O-Con, IIT Madras 2024
+- **🥇 TCS IT Wiz State Finalist** - TCS 2017, 2019  
+- **📜 Patent Holder** - Randomized Enabler System (Patent ID: 202341012155)
+- **🚀 Top 5** - ISI, Kolkata - Summer School of Deep Learning
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### **Frontend & Backend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🚀 Featured Projects
 
-### IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+### **AI/ML Projects**
 
----
+#### 🎵 **HarmonyAI - AI-Powered Music Remix Platform**
+AI-powered music remixing and mashup platform with intelligent audio processing.
+- **Tech**: JavaScript, Python, AI/ML, Mobile Development
+- **Features**: AI remixing, audio processing, cross-platform
 
-## 🎨 Portfolio Features
+#### 📚 **CourseWeaver - AI-Powered Course Creation**
+Intelligent education platform using Google's Gemini LLM for automated curriculum generation.
+- **Tech**: Python, Gemini LLM, FastAPI, React, MongoDB
+- **GitHub**: [courseweaver](https://github.com/tan1ro/courseweaver)
+- **Features**: Automated curriculum, personalized learning paths
 
-### ✨ Interactive 3D Experience
-- **Three.js Integration** with dynamic blob animations
-- **Smooth Transitions** powered by Framer Motion
-- **Responsive Design** optimized for all devices
-- **Glassmorphism UI** with modern aesthetics
+#### 🌱 **AgriGuard - Plant Disease Detection**
+CNN-based system with 94% accuracy analyzing 87,000+ plant images across 38 species.
+- **Tech**: Keras, TensorFlow, Streamlit, OpenCV, CNN Architectures
+- **Features**: ResNet50, VGG-16, GoogLeNet, AlexNet, LeNet-5
 
-### 🔒 Advanced Security
-- **DevTools Protection** with comprehensive security measures
-- **Content Obfuscation** using Base64 encoding
-- **Console Management** with automated cleanup
-- **Build-time Security** with Terser optimization
+#### 🧠 **TinyML Urine Analysis Diagnostics**
+End-to-end TinyML solution for medical diagnostics using ESP32 microcontrollers.
+- **Tech**: TinyML, ESP32, C, Arduino, Sequential Neural Networks
+- **Features**: Real-time analysis, optimized C headers
 
-### 📱 User Experience
-- **Dual Resume Download** (One-page & Long versions)
-- **Smooth Animations** with staggered timing effects
-- **Professional Layout** with precise positioning
-- **Accessibility Features** for inclusive design
+### **Full-Stack Projects**
 
----
+#### 📈 **AdsGrow - Tailored Advertisements**
+Intelligent marketing automation with LLM technology and comprehensive analytics.
+- **Tech**: MERN Stack, Chart.js, Analytics APIs, MongoDB, Django
+- **GitHub**: [adsgrow](https://github.com/tan1ro/adsgrow)
+- **Features**: Audience analysis, personalized campaigns, ROI tracking
 
-## 🚀 Getting Started
+#### 💰 **TrackEase - Financial Collaboration Platform**
+Sophisticated expense management with real-time synchronization and automation.
+- **Tech**: React, Node.js, MongoDB, Django, JWT
+- **GitHub**: [trackease](https://github.com/tan1ro/trackease)
+- **Features**: Group expense tracking, automated receipt processing
 
-### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn package manager
+#### 🏢 **MSME Digital Commerce Ecosystem**
+Comprehensive digital commerce platform for small and medium enterprises.
+- **Tech**: Django, PostgreSQL, React, REST APIs
+- **GitHub**: [msme-platform](https://github.com/tan1ro/msme-platform)
+- **Features**: Business management, inventory management, CRM
 
-### Installation
+## 📫 Connect With Me
 
-1. **Clone the repository**
-```bash
-   git clone https://github.com/yourusername/threejs-portfolio.git
-cd threejs-portfolio
-   ```
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nandeesh-kantli.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandeesh-kantli)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nandeeshkantli)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nandeeshkantli)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tan1ro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkantli24@gmail.com)
 
-2. **Install dependencies**
-   ```bash
-npm install
-   ```
-
-3. **Start the development server**
-   ```bash
-npm run dev
-```
-
-4. **Open your browser**
-   Navigate to `http://localhost:5000`
-
-### Build for Production
-```bash
-npm run build
-```
-
----
-
-## 📁 Project Structure
-
-```
-threejs-portfolio/
-├── public/
-│   └── resume.pdf
-├── src/
-│   ├── assets/
-│   │   └── logos/          # Technology logos
-│   ├── components/
-│   │   ├── ThreeJS/        # 3D components
-│   │   ├── shared/         # Reusable components
-│   │   └── *.jsx          # Page components
-│   ├── utils/
-│   │   └── security.js     # Security utilities
-│   ├── styles/
-│   │   └── security.css    # Security styles
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-├── vite.config.js
-└── tailwind.config.js
-```
-
----
-
-## 🎯 Key Projects
-
-### 🔐 CyberShield - DDoS Protection System
-Enterprise-grade cybersecurity with intelligent rate limiting and real-time attack detection.
-
-### 🤖 AgriGuard - AI Plant Disease Detection
-Computer vision-powered system for agricultural disease identification using CNN architectures.
-
-### 🎵 HarmonyAI - Music Remix Platform
-AI-powered music remixing platform with advanced audio processing capabilities.
-
-### 🏥 PulseLine - Healthcare Analytics
-Real-time healthcare monitoring system with predictive analytics and IoT integration.
-
-### 🏠 SmartHome - IoT Automation
-Comprehensive home automation system using ESP32 and Raspberry Pi.
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakNum=FFFFFF&currStreakLabel=FF6B35&sideNums=FFFFFF&sideLabels=FF6B35&dates=FFFFFF" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" alt="Top Languages" />
+![Profile Views](https://komarev.com/ghpvc/?username=tan1ro&color=brightgreen&style=for-the-badge)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tan1ro&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tan1ro&layout=compact&theme=radical&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tan1ro&theme=radical&hide_border=true)
+![GitHub Commits](https://github-readme-activity-graph.vercel.app/graph?username=tan1ro&theme=radical&hide_border=true&area=true)
+
 </div>
 
 ---
 
-## 🏆 Achievements
-
-- **🏅 Hackathon Winner** - Multiple hackathon victories
-- **📚 Academic Excellence** - IIT-M & RVU Scholar
-- **🔬 Research Contributor** - AI/ML research publications
-- **🌐 Open Source** - Active contributor to various projects
-- **🎓 Certifications** - AWS, Google Cloud, and more
-
----
-
-## 🤝 Let's Connect
-
 <div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
 
----
+**⭐ Star this repository if you find it helpful!**
 
-## 📈 Contribution Graph
+Made with ❤️ by [Nandeesh Kantli](https://github.com/tan1ro)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎨 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=FF6B35" alt="Profile Views" />
-  
-  <p>⭐ Star this repository if you found it helpful!</p>
-</div>
-
----
-
-*Made with ❤️ by [Nandeesh Kantli](https://github.com/tan1ro)* 
+</div> 
