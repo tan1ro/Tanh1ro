@@ -32,23 +32,7 @@ Hi there! I'm **Nandeesh Kantli**, a passionate **Full Stack Developer** and **A
 ## <span style="color: #FF6B35;">🎭</span> **I Am...**
 
 <div align="center">
-
-### **<span style="color: #FF6B35;">Full Stack Developer</span>** <span style="color: #FF6B35;">|</span>
-
-### **<span style="color: #FF6B35;">AI/ML Enthusiast</span>** <span style="color: #FF6B35;">|</span>
-
-### **<span style="color: #FF6B35;">Agentic AI Developer</span>** <span style="color: #FF6B35;">|</span>
-
-### **<span style="color: #FF6B35;">Cloud Solutions Architect</span>** <span style="color: #FF6B35;">|</span>
-
-### **<span style="color: #FF6B35;">Innovator</span>** <span style="color: #FF6B35;">|</span>
-
-### **<span style="color: #FF6B35;">Problem Solver</span>** <span style="color: #FF6B35;">|</span>
-
-### **<span style="color: #FF6B35;">Entrepreneur</span>** <span style="color: #FF6B35;">|</span>
-
-### **<span style="color: #FF6B35;">Explorer</span>** <span style="color: #FF6B35;">|</span>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cloud+Architect;Innovation+Creator" alt="Typing SVG" />
 </div>
 
 ---
