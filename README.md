@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 **Nandeesh Kantli**
+# <span style="color: #FF6B35;">⚡</span> **Nandeesh Kantli**
 
 > **Full Stack Developer & AI/ML Enthusiast** | Studying at IIT Madras & RVU
 
@@ -12,12 +12,12 @@
 
 ---
 
-## 👋 **About Me**
+## <span style="color: #FF6B35;">👤</span> **About Me**
 
 Hi there! I'm **Nandeesh Kantli**, a passionate **Full Stack Developer** and **AI/ML Enthusiast** currently studying at **IIT Madras** and **RVU**. I specialize in creating innovative solutions that bridge the gap between technology and human needs.
 
-* 💻 I'm currently learning **Advanced AI/ML** and **Cloud Architecture**
-* 🤝 I'm looking to collaborate on **AI/ML** and **Full-Stack** projects
+* <span style="color: #FF6B35;">💻</span> I'm currently learning **Advanced AI/ML** and **Cloud Architecture**
+* <span style="color: #FF6B35;">🤝</span> I'm looking to collaborate on **AI/ML** and **Full-Stack** projects
 
 <div align="center">
 
@@ -29,7 +29,7 @@ Hi there! I'm **Nandeesh Kantli**, a passionate **Full Stack Developer** and **A
 
 ---
 
-## 🎭 **I Am...**
+## <span style="color: #FF6B35;">🎭</span> **I Am...**
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Hi there! I'm **Nandeesh Kantli**, a passionate **Full Stack Developer** and **A
 
 ---
 
-## 🎯 **What I Do**
+## <span style="color: #FF6B35;">🎯</span> **What I Do**
 
 I'm passionate about creating innovative solutions that bridge the gap between technology and human needs. Specializing in full-stack development, machine learning, and scalable cloud architectures that drive real-world impact.
 
@@ -56,9 +56,9 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 ---
 
-## 💻 **Tech Stack & Tools**
+## <span style="color: #FF6B35;">💻</span> **Tech Stack & Tools**
 
-### 🌱 **Languages & Development Tools**
+### <span style="color: #FF6B35;">🌱</span> **Languages & Development Tools**
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 </div>
 
-### 🎨 **Frontend & UI**
+### <span style="color: #FF6B35;">🎨</span> **Frontend & UI**
 
 <div align="center">
 
@@ -87,7 +87,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 </div>
 
-### ⚙️ **Backend & Frameworks**
+### <span style="color: #FF6B35;">⚙️</span> **Backend & Frameworks**
 
 <div align="center">
 
@@ -99,7 +99,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 </div>
 
-### 🤖 **AI/ML & Data Science**
+### <span style="color: #FF6B35;">🤖</span> **AI/ML & Data Science**
 
 <div align="center">
 
@@ -117,7 +117,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 </div>
 
-### ✨ **Generative AI**
+### <span style="color: #FF6B35;">✨</span> **Generative AI**
 
 <div align="center">
 
@@ -128,7 +128,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 </div>
 
-### ☁️ **Cloud & DevOps**
+### <span style="color: #FF6B35;">☁️</span> **Cloud & DevOps**
 
 <div align="center">
 
@@ -141,7 +141,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 </div>
 
-### 🗄️ **Databases**
+### <span style="color: #FF6B35;">🗄️</span> **Databases**
 
 <div align="center">
 
@@ -153,7 +153,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 </div>
 
-### 🔧 **IoT & Hardware**
+### <span style="color: #FF6B35;">🔧</span> **IoT & Hardware**
 
 <div align="center">
 
@@ -164,7 +164,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 </div>
 
-### 🎨 **Design & Creative Tools**
+### <span style="color: #FF6B35;">🎨</span> **Design & Creative Tools**
 
 <div align="center">
 
@@ -178,7 +178,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 ---
 
-## 🚀 **What Drives Me**
+## <span style="color: #FF6B35;">🚀</span> **What Drives Me**
 
 I believe in the power of technology to transform lives and solve real-world problems. Every line of code I write, every algorithm I design, and every solution I build is driven by a simple philosophy: **make technology work for people, not the other way around**.
 
@@ -186,7 +186,7 @@ From full-stack applications that streamline business processes to AI systems th
 
 ---
 
-## 📊 **GitHub Stats**
+## <span style="color: #FF6B35;">📊</span> **GitHub Stats**
 
 <div align="center">
 
