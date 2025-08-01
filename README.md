@@ -33,9 +33,21 @@ Hi there! I'm **Nandeesh Kantli**, a passionate **Full Stack Developer** and **A
 
 <div align="center">
 
-### **<span style="color: #FF6B35;">Full Stack Developer</span>** | **<span style="color: #FF6B35;">AI/ML Enthusiast</span>** | **<span style="color: #FF6B35;">Agentic AI Developer</span>** | **<span style="color: #FF6B35;">Cloud Solutions Architect</span>**
+### **<span style="color: #FF6B35;">Full Stack Developer</span>** <span style="color: #FF6B35;">|</span>
 
-### **<span style="color: #FF6B35;">Innovator</span>** | **<span style="color: #FF6B35;">Problem Solver</span>** | **<span style="color: #FF6B35;">Entrepreneur</span>** | **<span style="color: #FF6B35;">Explorer</span>**
+### **<span style="color: #FF6B35;">AI/ML Enthusiast</span>** <span style="color: #FF6B35;">|</span>
+
+### **<span style="color: #FF6B35;">Agentic AI Developer</span>** <span style="color: #FF6B35;">|</span>
+
+### **<span style="color: #FF6B35;">Cloud Solutions Architect</span>** <span style="color: #FF6B35;">|</span>
+
+### **<span style="color: #FF6B35;">Innovator</span>** <span style="color: #FF6B35;">|</span>
+
+### **<span style="color: #FF6B35;">Problem Solver</span>** <span style="color: #FF6B35;">|</span>
+
+### **<span style="color: #FF6B35;">Entrepreneur</span>** <span style="color: #FF6B35;">|</span>
+
+### **<span style="color: #FF6B35;">Explorer</span>** <span style="color: #FF6B35;">|</span>
 
 </div>
 
