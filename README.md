@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color: #FF6B35;">⚡</span> **Nandeesh Kantli**
+# ⚡ **Nandeesh Kantli**
 
 > **Full Stack Developer & AI/ML Enthusiast** | Studying at IIT Madras & RVU
 
@@ -12,14 +12,14 @@
 
 ---
 
-## <span style="color: #FF6B35;">👤</span> **About Me**
+<div align="center">
+
+## 👤 **About Me**
 
 Hi there! I'm **Nandeesh Kantli**, a passionate **Full Stack Developer** and **AI/ML Enthusiast** currently studying at **IIT Madras** and **RVU**. I specialize in creating innovative solutions that bridge the gap between technology and human needs.
 
-* <span style="color: #FF6B35;">💻</span> I'm currently learning **Advanced AI/ML** and **Cloud Architecture**
-* <span style="color: #FF6B35;">🤝</span> I'm looking to collaborate on **AI/ML** and **Full-Stack** projects
-
-<div align="center">
+* 💻 I'm currently learning **Advanced AI/ML** and **Cloud Architecture**
+* 🤝 I'm looking to collaborate on **AI/ML** and **Full-Stack** projects
 
 > **"Grab a cup of coffee ☕ and build something that matters."**
 
@@ -29,19 +29,21 @@ Hi there! I'm **Nandeesh Kantli**, a passionate **Full Stack Developer** and **A
 
 ---
 
-## <span style="color: #FF6B35;">🎭</span> **I Am...**
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Cloud+Architect;Innovation+Creator" alt="Typing SVG" />
+
+## 🎭 **I Am...**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+Developer;Cloud+Solutions+Architect;Innovator;Problem+Solver;Entrepreneur;Explorer" alt="Typing SVG" />
+
 </div>
 
 ---
 
-## <span style="color: #FF6B35;">🎯</span> **What I Do**
+<div align="center">
+
+## 🎯 **What I Do**
 
 I'm passionate about creating innovative solutions that bridge the gap between technology and human needs. Specializing in full-stack development, machine learning, and scalable cloud architectures that drive real-world impact.
-
-<div align="center">
 
 * **Full Stack Development** - Building modern web applications with React, Node.js, and cloud technologies
 * **AI/ML Development** - Creating intelligent systems using TensorFlow, PyTorch, and advanced neural networks
@@ -52,11 +54,11 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 ---
 
-## <span style="color: #FF6B35;">💻</span> **Tech Stack & Tools**
-
-### <span style="color: #FF6B35;">🌱</span> **Languages & Development Tools**
+## 💻 **Tech Stack & Tools**
 
 <div align="center">
+
+### 🌱 **Languages & Development Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -67,11 +69,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-</div>
-
-### <span style="color: #FF6B35;">🎨</span> **Frontend & UI**
-
-<div align="center">
+### 🎨 **Frontend & UI**
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -81,11 +79,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
-
-### <span style="color: #FF6B35;">⚙️</span> **Backend & Frameworks**
-
-<div align="center">
+### ⚙️ **Backend & Frameworks**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -93,11 +87,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-</div>
-
-### <span style="color: #FF6B35;">🤖</span> **AI/ML & Data Science**
-
-<div align="center">
+### 🤖 **AI/ML & Data Science**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -111,22 +101,14 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 ![TinyML](https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-FF6F00?style=for-the-badge&logo=knime&logoColor=white)
 
-</div>
-
-### <span style="color: #FF6B35;">✨</span> **Generative AI**
-
-<div align="center">
+### ✨ **Generative AI**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00FF00?style=for-the-badge&logo=langchain&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/VectorDB-FF6F00?style=for-the-badge&logo=pinecone&logoColor=white)
 
-</div>
-
-### <span style="color: #FF6B35;">☁️</span> **Cloud & DevOps**
-
-<div align="center">
+### ☁️ **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -135,11 +117,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-</div>
-
-### <span style="color: #FF6B35;">🗄️</span> **Databases**
-
-<div align="center">
+### 🗄️ **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -147,22 +125,14 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</div>
-
-### <span style="color: #FF6B35;">🔧</span> **IoT & Hardware**
-
-<div align="center">
+### 🔧 **IoT & Hardware**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
-</div>
-
-### <span style="color: #FF6B35;">🎨</span> **Design & Creative Tools**
-
-<div align="center">
+### 🎨 **Design & Creative Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
@@ -174,17 +144,21 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 ---
 
-## <span style="color: #FF6B35;">🚀</span> **What Drives Me**
+<div align="center">
+
+## 🚀 **What Drives Me**
 
 I believe in the power of technology to transform lives and solve real-world problems. Every line of code I write, every algorithm I design, and every solution I build is driven by a simple philosophy: **make technology work for people, not the other way around**.
 
 From full-stack applications that streamline business processes to AI systems that enhance medical diagnostics, I'm constantly exploring the intersection of innovation and impact.
 
+</div>
+
 ---
 
-## <span style="color: #FF6B35;">📊</span> **GitHub Stats**
-
 <div align="center">
+
+## 📊 **GitHub Stats**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tan1ro&color=orange&style=for-the-badge)
 
