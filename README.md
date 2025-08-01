@@ -7,51 +7,58 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&height=120&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+Developer;Cloud+Solutions+Architect;Innovator;Problem+Solver;Entrepreneur;Explorer" alt="Typing SVG" />
-
+  
 </div>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-FF6B35?style=for-the-badge&logo=About.me&logoColor=white)](https://nandeesh-kantli.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandeesh-kantli)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tan1ro)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nandeesh_kantli)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nandeesh_kantli)
 
 </div>
 
 ---
 
-## 👤 **About Me**
+## 🎨 **About Me**
 
-Hi there! I'm **Nandeesh Kantli**, a passionate **Full Stack Developer** and **AI/ML Enthusiast** currently studying at **IIT Madras** and **RVU**. I specialize in creating innovative solutions that bridge the gap between technology and human needs.
+Hey there! I'm **Nandeesh Kantli**, and I'm not just building apps - I'm crafting the future. Think of me as your friendly neighborhood **Full Stack Developer** and **AI/ML Enthusiast** currently rocking it at **IIT Madras** and **RVU**. I don't just solve problems; I create solutions that make the world a better place.
 
-* 💻 I'm currently learning **Advanced AI/ML** and **Cloud Architecture**
+* 🚀 I'm currently learning **Advanced AI/ML** and **Cloud Architecture**
 * 🤝 I'm looking to collaborate on **AI/ML** and **Full-Stack** projects
+* 🌟 I'm passionate about **Innovation** and **Problem Solving**
+* 🎯 I'm focused on **Scalable Solutions** and **Real-world Impact**
+* 🔥 I'm exploring **Generative AI** and **Agentic Systems**
+* 💡 I'm building **Cutting-edge Applications** and **AI Solutions**
+* 🚀 I'm working on **Cloud-native** and **Microservices Architecture**
+* 🎨 I'm creating **Beautiful UIs** and **User Experiences**
 
-> **"Grab a cup of coffee ☕ and build something that matters."**
-
-> **"Sometimes you gotta run before you can walk."** - *Tony Stark*
-
----
-
-## 🎯 **What I Do**
-
-I'm passionate about creating innovative solutions that bridge the gap between technology and human needs. Specializing in full-stack development, machine learning, and scalable cloud architectures that drive real-world impact.
-
-* **Full Stack Development** - Building modern web applications with React, Node.js, and cloud technologies
-* **AI/ML Development** - Creating intelligent systems using TensorFlow, PyTorch, and advanced neural networks
-* **Cloud Solutions** - Architecting scalable solutions on AWS, GCP, and Azure
-* **Innovation** - Developing cutting-edge solutions for real-world problems
+> <span style="color: #FF6B35; font-weight: bold;">**"Sometimes you gotta run before you can walk."**</span> - <span style="color: #FFD700; font-style: italic;">*Tony Stark*</span>
 
 ---
 
-## 💻 **Tech Stack & Tools**
+## 🌟 **What I Do**
+
+Listen up! I don't just write code - I architect solutions that bridge the gap between what's possible and what's needed. I'm talking about full-stack development that actually works, machine learning that makes sense, and cloud architectures that scale like they're supposed to.
+
+* **Full Stack Development** - Building web apps that don't just work, they work brilliantly
+* **AI/ML Development** - Creating intelligent systems that actually understand what they're doing
+* **Cloud Solutions** - Architecting scalable solutions on AWS, GCP, and Azure because why settle for less?
+* **Innovation** - Developing cutting-edge solutions for real-world problems because the future won't build itself
+
+---
+
+## 🛠️ **Tech Stack & Tools**
 
 <div align="center">
 
-### 🌱 **Languages & Development Tools**
+### 🌈 **Languages & Development Tools**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -62,7 +69,7 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -134,9 +141,9 @@ I'm passionate about creating innovative solutions that bridge the gap between t
 
 ## 🚀 **What Drives Me**
 
-I believe in the power of technology to transform lives and solve real-world problems. Every line of code I write, every algorithm I design, and every solution I build is driven by a simple philosophy: **make technology work for people, not the other way around**.
+Look, I believe in the power of technology to transform lives and solve real-world problems. Every line of code I write, every algorithm I design, and every solution I build is driven by a simple philosophy: **make technology work for people, not the other way around**.
 
-From full-stack applications that streamline business processes to AI systems that enhance medical diagnostics, I'm constantly exploring the intersection of innovation and impact.
+From full-stack applications that actually streamline business processes to AI systems that enhance medical diagnostics, I'm constantly exploring the intersection of innovation and impact. Because let's face it - the future won't build itself.
 
 ---
 
