@@ -4,6 +4,8 @@
 
 >**Studying at IIT Madras & RVU**
 
+![Profile Views](https://komarev.com/ghpvc/?username=tan1ro&color=orange&style=for-the-badge)
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&height=120&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Agentic+AI+Developer;Cloud+Solutions+Architect;Innovator;Problem+Solver;Entrepreneur;Explorer" alt="Typing SVG" />
@@ -151,7 +153,6 @@ From full-stack applications that actually streamline business processes to AI s
 
 ## 📊 **GitHub Stats**
 
-![Profile Views](https://komarev.com/ghpvc/?username=tan1ro&color=orange&style=for-the-badge)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tan1ro&theme=radical&hide_border=true&card_width=705)
 
